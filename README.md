@@ -10,9 +10,9 @@ Requisitos
 
 Para instalar las dependencias se puede utilizar el siguiente comando:
 
-pip install selenium pandas
+    pip install selenium pandas
 
-Además, necesitarás descargar el controlador de Chrome WebDriver y asegurarte de que esté en tu PATH. 
+Además, se necesitará descargar el controlador de Chrome WebDriver y asegurarte de que esté en tu PATH. 
 
 Uso
    
