@@ -1,4 +1,4 @@
-craping de Propiedades en ZonaProp
+Scraping de Propiedades en ZonaProp
 
 Este script en Python utiliza Selenium para realizar scraping en el sitio web de ZonaProp y obtener información sobre departamentos en alquiler en Moreno. En este caso, ordenados por precio ascendente. Para conseguir otros filtros o paginas, sólo hay que cambiar la url que se pasa como prámetro.
 
